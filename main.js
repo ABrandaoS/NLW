@@ -1,8 +1,8 @@
 const linksSocialMedia = {
   github: 'ABrandaoS',
-  youtube: 'ABrandaoS',
-  facebook: 'ABrandaoS',
-  instagram: 'ABrandaoS',
+  youtube: '',
+  facebook: '',
+  instagram: '',
   twitter: 'ABrandaoS'
 }
 
